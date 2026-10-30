@@ -1,0 +1,30 @@
+[
+  {
+    "referenceId": "CCB-261029-5828",
+    "timestamp": "2026-10-29T15:48:17.924Z",
+    "clientIp": "::1",
+    "customer": {
+      "name": "Saai Marale",
+      "phone": "1478523695",
+      "email": "shivsaai2010@gmail.com"
+    },
+    "details": {
+      "date": "2026-10-29",
+      "timeSlot": "23:00 - 01:00 (Midnight Chill)",
+      "guests": 2,
+      "seatingArea": "Rooftop Open Sky Terrace",
+      "occasion": "friends",
+      "includePool": true,
+      "notes": "saDa",
+      "estimatedOrderItemsCount": 0
+    },
+    "status": "REQUEST_RECEIVED",
+    "reviewStatus": "PENDING_REVIEW",
+    "emailDelivery": {
+      "status": "SENT",
+      "attemptedAt": "2026-10-29T15:48:17.924Z",
+      "recipient": "shivsaai2010@gmail.com",
+      "resendId": "01a18859-0472-70ac-b833-fe13eb6ee655"
+    }
+  }
+]
